@@ -4,6 +4,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributors](#contributors)
+  * [link to website](#link)
 
 
   
@@ -47,7 +48,11 @@
   
   ## Contributors
   
-  This repo was created by **Brandon Norrgard, Bryan Thaoxaochay, Calvin Jacobsen, Noah Schlag, Jim Nguyen**.  
+  This repo was created by **Brandon Norrgard, Bryan Thaoxaochay, Calvin Jacobsen, Noah Schlag, Jim Nguyen**.
+  
+  ## Link
+  
+  visit the site at: https://dashboard.heroku.com/apps/park-finder-app
   
   
   
