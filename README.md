@@ -52,7 +52,7 @@
   
   ## Link
   
-  visit the site at: https://dashboard.heroku.com/apps/park-finder-app
+  visit the site at: https://park-finder-app.herokuapp.com/
   
   
   
